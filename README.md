@@ -1,8 +1,6 @@
 # AssetsInAGem::Rails
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/assets_in_a_gem/rails`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+The absolutely most basic example of wrapping assets in a gem for a Rails application.
 
 ## Installation
 
@@ -22,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+This application is the most basic from of wrapping assets in a gem for use in Rails. When I say basic our example will only be transferring a `console.log` that identifies that this gem is installed and running.
 
 ## Development
 
